@@ -93,7 +93,7 @@ const AboutUs = () => {
                   fontFamily: "'Poppins', sans-serif",
                 }}
               >
-                Keshav Rawal
+                Shania Christian
               </p>
               <p
                 style={{
@@ -102,8 +102,8 @@ const AboutUs = () => {
                   fontFamily: "'Roboto', sans-serif",
                 }}
               >
-                Keshav is the visionary behind SkillBarter. With a passion for
-                learning and a deep belief in the power of community, Keshav
+                Shania is the visionary behind SkillBarter. With a passion for
+                learning and a deep belief in the power of community, Shania
                 founded SkillBarter to create a platform where skills could be
                 exchanged freely, empowering individuals to achieve their
                 personal and professional goals.
